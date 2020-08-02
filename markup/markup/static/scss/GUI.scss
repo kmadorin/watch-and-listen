@@ -1,0 +1,12 @@
+// GUI stylies of the project
+// For example, styles of the links, buttons and so on.
+
+.wl-btn {
+	background: transparent;
+
+	&--inline {
+		display: inline-block;
+		outline: 0;
+		border: 0;
+	}
+}
